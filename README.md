@@ -1,12 +1,13 @@
 ## Cenário 1
-#### O cliente deseja ter um cadastro de produtos, onde seja possível adicionar, atualizar e remover os produtos.
+#### O cliente deseja ter um cadastro de PRODUTO, onde seja possível adicionar, atualizar e remover os produtos.
 
 #### Regras
 1. Os produtos devem ser únicos
 2. Os produtos devem possuir categorias
+3. Os produtos devem possuir status 
 
 ## Cenário 2
-#### O cliente deseja ter um cadastro onde consiga adicionar, atualizar e remover os produtos da vitrine
+#### O cliente deseja ter um cadastro onde consiga adicionar, atualizar e remover os produtos da VITRINE
 
 #### Regras
 1. O produto adicionado na vitrine deve ter um período de exibição (início/ fim)
